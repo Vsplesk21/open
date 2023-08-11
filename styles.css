@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    color: #000;
+    float: center;
+}
+
+
+.size {
+    font-size: 25px;
+}
+
+.text{
+    font-size: 14px;
+}
+
+h2{
+    text-align: center;
+    color: black;
+    float: center;
+    cursor:cell;
+}
+
+body{
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #0fc83a;
+}
+
+
+#block{
+    margin-left: 200px;
+}
